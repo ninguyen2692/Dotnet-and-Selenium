@@ -1,0 +1,51 @@
+# ================================
+# .NET / C#
+# ================================
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Rider / Resharper
+.idea/
+*.DotSettings.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs & Test Results
+TestResults/
+*.log
+
+# Selenium / Drivers
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+
+# Reports
+Reports/
+AllureResults/
+allure-results/
+allure-report/
+
+# Environment / secrets
+appsettings.Development.json
+appsettings.Local.json
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Build artifacts
+*.dll
+*.exe
